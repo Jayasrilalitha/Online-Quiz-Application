@@ -1,13 +1,11 @@
 Online-Quiz-Application
 Technology used:
-Category                              	Technology	                                          Description
-
-Frontend	                          HTML, CSS, javascript                       For building the user interface of quiz pages.
-Backend	                              Node.js, Express.js	                      Handles APIs, routes, and quiz logic.
-Database	                          MongoDB	(trivia)                          Stores user data, quiz questions, and scores.
-API Integration	                      Fetch / Axios	                              Fetches quiz questions from external API (quizapi.io).
-Tools	                              VS Code	                                  Development and API testing.
-Version Control                       Git & GitHub	                              Source code management and collaboration.
+FRONTED-HTML,CSS,JS
+BACKEND-Node.js,express.js
+DATABASE-MangoDB(trivia)
+API-Fetch/Axios
+TOOL-VS Code
+VERSION CONTROL-GitHub
 
 🧩 How It Works
 
